@@ -42,7 +42,7 @@ jobs:
       run: |
         coverage combine
         coverage xml
-    - uses: codecov/codecov-action@v3.1.1
+    - uses: codecov/codecov-action@v4.0.0
       with:
         flags: setup
         name: setup
@@ -109,7 +109,7 @@ jobs:
       run: |
         coverage combine
         coverage xml
-    - uses: codecov/codecov-action@v3.1.1
+    - uses: codecov/codecov-action@v4.0.0
       with:
         flags: setup
         name: dist
