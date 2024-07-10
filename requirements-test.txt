@@ -3,3 +3,4 @@ coverage==6.5.0
 responses==0.22.0
 selenium==4.6.1
 twine==4.0.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
