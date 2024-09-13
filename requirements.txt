@@ -32,13 +32,15 @@ pyparsing>=3.0.7,<3.1
 python-dateutil>=2.8.1
 python-redis-lock>=4,<4.1
 rapidfuzz>=2.6.0,<3.0
-requests>=2.26.0,<2.29
+requests>=2.32.2
 sentry_sdk>=1.6,<2
 siphashc>=1.2,<3.0
-social-auth-app-django==5.0.0
+social-auth-app-django==5.4.1
 social-auth-core==4.3.0
 translate-toolkit>=3.7.2,<3.8
 translation-finder>=2.14,<3.0
 user-agents>=2.0,<2.3
 weblate-language-data>=2022.7
 weblate-schemas==2022.1
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
