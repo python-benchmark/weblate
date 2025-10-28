@@ -346,10 +346,10 @@ source-code-pro@2.38.0:
   resolved "https://registry.yarnpkg.com/source-code-pro/-/source-code-pro-2.38.0.tgz#85c57689f7386bb9d0515fb00ba4845bfb7b485b"
   integrity sha512-JMXu7l3XrLREG17eEwY66ANG9716WTu6OeNvZfRKQKANEvbSERDZjk5AYTHeV6owQNPQTeiiW3ri2Ou93XFGvg==
 
-source-sans@3.46.0:
-  version "3.46.0"
-  resolved "https://registry.yarnpkg.com/source-sans/-/source-sans-3.46.0.tgz#6af0a47ead682fa8971f0c83e9692e75ef3cbb86"
-  integrity sha512-bVC2YX4VNiv5vMcy77dL0XKsNp794ThfynNsr+FqSAwk8TGG0pZsg7eUQi6yHwaRBMVmZ3Aaf4FY46dxIIGgsg==
+source-sans@3.52.0:
+  version "3.52.0"
+  resolved "https://registry.yarnpkg.com/source-sans/-/source-sans-3.52.0.tgz#637688392a05cb5d016d9bec03dd84212e7d69dd"
+  integrity sha512-xsm7qlMI/JwxwNdp6pvpR6l+aZjn90fzOzoeUz/qoohIYbKbDwQNRIz5/ItYs7/hvqLirQNUoDFGXSVA3TU9tw==
 
 string-width@^4.1.0, string-width@^4.2.0:
   version "4.2.3"
