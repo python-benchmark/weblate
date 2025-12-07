@@ -6,3 +6,5 @@
 django-debug-toolbar==3.7.0
 PyICU
 scour
+django>=4.2.27 # not directly required, pinned by Snyk to avoid a vulnerability
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
